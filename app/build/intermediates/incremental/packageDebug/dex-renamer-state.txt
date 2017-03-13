@@ -1,0 +1,7 @@
+#Tue Feb 28 21:19:02 NZDT 2017
+base.0=C\:\\Users\\jerem\\AndroidStudioProjects\\SimpleDraw\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_952525c36aa7cb1c1f529f78b94bb29329cc2ce6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\jerem\\AndroidStudioProjects\\SimpleDraw\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_10bf94883ddfccd4521401fbd5bf69c1df826cce\\classes.dex
+base.1=C\:\\Users\\jerem\\AndroidStudioProjects\\SimpleDraw\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_10bf94883ddfccd4521401fbd5bf69c1df826cce
+file.0=C\:\\Users\\jerem\\AndroidStudioProjects\\SimpleDraw\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_952525c36aa7cb1c1f529f78b94bb29329cc2ce6\\classes.dex

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="25"
+    density="mdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="89500348711230"
+    token="3366461308631867338"
+    verifier="R_CLASS_CHANGE" >
+
+    <task
+        name="javac"
+        duration="339" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="13" />
+    <task
+        name="verifier"
+        duration="8" />
+
+    <artifact
+        location="C:\Users\jerem\AndroidStudioProjects\SimpleDraw\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="C:\Users\jerem\AndroidStudioProjects\SimpleDraw\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="86214292406682"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\jerem\AndroidStudioProjects\SimpleDraw\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="89107658864862"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\jerem\AndroidStudioProjects\SimpleDraw\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="89500348711230"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="C:\Users\jerem\AndroidStudioProjects\SimpleDraw\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="C:\Users\jerem\AndroidStudioProjects\SimpleDraw\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
