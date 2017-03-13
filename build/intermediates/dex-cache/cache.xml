@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\jerem\AndroidStudioProjects\SimpleDraw\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\jerem\AndroidStudioProjects\SimpleDraw\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_dace12c3a22287184ae6daaa16d1d6fa39fbeacd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jerem\AndroidStudioProjects\SimpleDraw\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\jerem\AndroidStudioProjects\SimpleDraw\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_f3703bb8635dff53a556ebe85b264a471070ac08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jerem\AndroidStudioProjects\SimpleDraw\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\jerem\AndroidStudioProjects\SimpleDraw\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_9bb9c8177f9b7c9c213944b70e37d6e175618618\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jerem\AndroidStudioProjects\SimpleDraw\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="82f15103607be4eae82d4bef1bfd012684d032eb">
+        <dex dex="C:\Users\jerem\AndroidStudioProjects\SimpleDraw\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_10bf94883ddfccd4521401fbd5bf69c1df826cce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jerem\AndroidStudioProjects\SimpleDraw\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7859f9af4ae5397910a9d33b73ff99e9174fa8d6">
+        <dex dex="C:\Users\jerem\AndroidStudioProjects\SimpleDraw\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_952525c36aa7cb1c1f529f78b94bb29329cc2ce6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Program Files (x86)\Android Studio\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\jerem\AndroidStudioProjects\SimpleDraw\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_6efd7d28bd7a0a500571199988ca17461b22286d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jerem\AndroidStudioProjects\SimpleDraw\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\jerem\AndroidStudioProjects\SimpleDraw\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_634e1928808d90af9b3e64d0a05cbee1b1b19e48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jerem\AndroidStudioProjects\SimpleDraw\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\jerem\AndroidStudioProjects\SimpleDraw\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_8faa1e5bd686331cd6941a625da07d5dea37eeff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jerem\AndroidStudioProjects\SimpleDraw\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\jerem\AndroidStudioProjects\SimpleDraw\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_847828edd32768619617d36d89136e82775a5ea1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jerem\AndroidStudioProjects\SimpleDraw\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\jerem\AndroidStudioProjects\SimpleDraw\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_62ecc4c8f942fb640cc02c4f5f50461d552ac93d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jerem\AndroidStudioProjects\SimpleDraw\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\jerem\AndroidStudioProjects\SimpleDraw\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_e75af9fd6b0d555d2dae79aa125afd47bd2d1e1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jerem\AndroidStudioProjects\SimpleDraw\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\jerem\AndroidStudioProjects\SimpleDraw\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_9de62a2fcda46232ee9dad56fa96deceb718c402\classes.dex" />
+    </item>
+
+</items>
