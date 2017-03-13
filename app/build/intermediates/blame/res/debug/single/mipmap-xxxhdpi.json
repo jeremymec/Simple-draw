@@ -4,6 +4,10 @@
         "source": "C:\\Users\\jerem\\Documents\\GitHub\\Simple-draw\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\Users\\jerem\\Desktop\\simple-draw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\jerem\\Desktop\\simple-draw\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\jerem\\AndroidStudioProjects\\SimpleDraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
         "source": "C:\\Users\\jerem\\AndroidStudioProjects\\SimpleDraw\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     }

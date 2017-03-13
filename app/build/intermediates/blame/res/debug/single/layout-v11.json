@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\jerem\\Desktop\\simple-draw\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\jerem\\Desktop\\simple-draw\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
         "merged": "C:\\Users\\jerem\\Documents\\GitHub\\Simple-draw\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
         "source": "C:\\Users\\jerem\\Documents\\GitHub\\Simple-draw\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v11\\notification_template_big_media_narrow.xml"
     },
@@ -10,6 +14,10 @@
     {
         "merged": "C:\\Users\\jerem\\AndroidStudioProjects\\SimpleDraw\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
         "source": "C:\\Users\\jerem\\AndroidStudioProjects\\SimpleDraw\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jerem\\Desktop\\simple-draw\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\jerem\\Desktop\\simple-draw\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v11\\notification_media_action.xml"
     },
     {
         "merged": "C:\\Users\\jerem\\Documents\\GitHub\\Simple-draw\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
@@ -24,6 +32,10 @@
         "source": "C:\\Users\\jerem\\Documents\\GitHub\\Simple-draw\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
     },
     {
+        "merged": "C:\\Users\\jerem\\Desktop\\simple-draw\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\jerem\\Desktop\\simple-draw\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
         "merged": "C:\\Users\\jerem\\AndroidStudioProjects\\SimpleDraw\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
         "source": "C:\\Users\\jerem\\AndroidStudioProjects\\SimpleDraw\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v11\\notification_template_big_media_narrow.xml"
     },
@@ -32,8 +44,16 @@
         "source": "C:\\Users\\jerem\\AndroidStudioProjects\\SimpleDraw\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
     },
     {
+        "merged": "C:\\Users\\jerem\\Desktop\\simple-draw\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\jerem\\Desktop\\simple-draw\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
         "merged": "C:\\Users\\jerem\\Documents\\GitHub\\Simple-draw\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
         "source": "C:\\Users\\jerem\\Documents\\GitHub\\Simple-draw\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jerem\\Desktop\\simple-draw\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\jerem\\Desktop\\simple-draw\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v11\\notification_media_cancel_action.xml"
     },
     {
         "merged": "C:\\Users\\jerem\\AndroidStudioProjects\\SimpleDraw\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
@@ -42,6 +62,10 @@
     {
         "merged": "C:\\Users\\jerem\\Documents\\GitHub\\Simple-draw\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
         "source": "C:\\Users\\jerem\\Documents\\GitHub\\Simple-draw\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\jerem\\Desktop\\simple-draw\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\jerem\\Desktop\\simple-draw\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v11\\notification_template_big_media_narrow.xml"
     },
     {
         "merged": "C:\\Users\\jerem\\Documents\\GitHub\\Simple-draw\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
