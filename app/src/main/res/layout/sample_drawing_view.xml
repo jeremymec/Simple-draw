@@ -1,0 +1,28 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto/com.jerem.simpledraw"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.jerem.simpledraw.DrawingView
+        android:id="@+id/DrawingView"
+        android:layout_width="wrap_content"
+        android:layout_height="554dp"
+        android:background="#ffffff"
+        android:paddingBottom="40dp"
+        android:paddingLeft="20dp"
+        app:exampleColor="#33b5e5"
+        app:exampleDimension="24sp"
+        app:exampleDrawable="@android:drawable/ic_menu_add"
+        app:exampleString="Hello, DrawingView" />
+
+    <Button
+        android:text="Refresh"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonRefresh"
+        android:layout_width="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:onClick="refreshCallback"
+        />
+
+</RelativeLayout>
